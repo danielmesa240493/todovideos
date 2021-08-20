@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todovideos.Common", "todovideos.Common\todovideos.Common.csproj", "{62541E9B-9B3D-423E-B167-BBAE59F8A2D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todovideos.Common", "todovideos.Common\todovideos.Common.csproj", "{62541E9B-9B3D-423E-B167-BBAE59F8A2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todovideos.Functions", "todovideos.Functions\todovideos.Functions.csproj", "{1D996171-4129-4ED5-BE5E-AE17B03C61BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todovideos.Functions", "todovideos.Functions\todovideos.Functions.csproj", "{1D996171-4129-4ED5-BE5E-AE17B03C61BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todovideos.Test", "todovideos.Test\todovideos.Test.csproj", "{0EBE9EB9-2B76-48B0-9EEA-73F5FC8D8997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todovideos.Test", "todovideos.Test\todovideos.Test.csproj", "{0EBE9EB9-2B76-48B0-9EEA-73F5FC8D8997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
